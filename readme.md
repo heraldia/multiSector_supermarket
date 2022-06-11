@@ -1,7 +1,7 @@
 # Shopping Mall with Multi Sectors
 
 # Scene
-![](./screenshot/2022-06-05 at 1.20.02 PM.png)
+![](./screenshot/pic.png)
 
 # Contributor
 - Phil
